@@ -27,7 +27,7 @@ O objetivo deste projeto é simular um cenário de análise de dados de vendas, 
 
 ## Como executar
 
-1.  Clone este repositório: `git clone https://github.com/seu-usuario/analise-dados-vendas.git`
+1.  Clone este repositório: `git clone https://github.com/Gustavo-Pasciano93/etl-vendas-mysql.git`
 2.  Crie um ambiente virtual (opcional): `python3 -m venv venv`
 3.  Ative o ambiente virtual: `source venv/bin/activate` (Linux/macOS) ou `venv\Scripts\activate` (Windows)
 4.  Instale as dependências: `pip install -r requirements.txt`
