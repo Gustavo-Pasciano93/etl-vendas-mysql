@@ -1,0 +1,51 @@
+data,produto,quantidade,valor_unitario,regiao
+2023-03-24,Impressora,10,1143.47,Sul
+2023-06-06,Tablet,6,1668.04,Centro-Oeste
+2023-02-22,Câmera,4,598.99,Sudeste
+2023-09-01,Tablet,7,1535.26,Norte
+2023-11-14,Monitor,4,677.22,Sul
+2023-01-02,Teclado,7,1212.16,Nordeste
+2023-11-17,Câmera,1,697.83,Sudeste
+2023-04-25,Câmera,4,890.1,Nordeste
+2023-10-31,Monitor,2,196.66,Nordeste
+2023-08-06,Headset,2,1435.79,Norte
+2023-10-05,Smartphone,3,1102.4,Sul
+2023-07-11,Notebook,4,951.99,Centro-Oeste
+2023-05-14,Impressora,7,224.39,Norte
+2023-10-10,HD Externo,1,518.04,Norte
+2023-12-04,Impressora,3,1301.34,Sul
+2023-11-15,HD Externo,10,1919.68,Sul
+2023-09-09,HD Externo,1,442.38,Nordeste
+2023-07-10,Câmera,8,506.18,Centro-Oeste
+2023-02-28,HD Externo,7,907.75,Nordeste
+2023-10-03,Headset,8,193.09,Centro-Oeste
+2023-06-01,Teclado,8,1727.92,Nordeste
+2023-01-05,Headset,3,283.79,Nordeste
+2023-07-10,Tablet,2,311.23,Sul
+2023-02-23,Impressora,7,1466.78,Sul
+2023-08-08,Mouse,5,1707.83,Sul
+2023-05-12,Notebook,2,310.41,Sudeste
+2023-04-17,Impressora,9,1657.25,Nordeste
+2023-08-10,Smartphone,5,430.75,Sul
+2023-02-04,Câmera,1,1738.57,Norte
+2023-09-06,Câmera,9,1493.92,Norte
+2023-07-01,Câmera,7,225.86,Sudeste
+2023-01-30,Notebook,9,1353.73,Nordeste
+2023-02-03,Mouse,10,292.12,Centro-Oeste
+2023-03-30,Headset,6,188.89,Norte
+2023-05-03,Tablet,6,1452.94,Sudeste
+2023-10-20,Teclado,6,776.53,Norte
+2023-09-11,HD Externo,3,878.99,Sul
+2023-09-04,Monitor,1,1578.63,Centro-Oeste
+2023-02-17,Monitor,10,1979.94,Norte
+2023-07-29,Mouse,4,1709.01,Sul
+2023-02-25,Notebook,9,975.43,Nordeste
+2023-06-07,Monitor,7,869.24,Sudeste
+2023-06-10,Teclado,1,845.59,Nordeste
+2023-09-03,Impressora,3,1935.65,Sudeste
+2023-11-29,Monitor,2,138.33,Norte
+2023-07-15,Headset,1,770.36,Norte
+2023-07-10,Headset,9,1205.11,Sudeste
+2023-10-20,Headset,3,538.04,Sudeste
+2023-12-14,Mouse,7,775.82,Nordeste
+2023-06-04,Tablet,3,1559.57,Nordeste
